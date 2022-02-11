@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fruit_ninja>
+    <state>
+        <difficulty>1</difficulty>
+        <lives>3</lives>
+        <current_score>0</current_score>
+        <highest_score>15</highest_score>
+    </state>
+</fruit_ninja>
